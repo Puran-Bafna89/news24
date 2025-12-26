@@ -1,0 +1,4 @@
+.env .local has this secret key
+
+REACT_APP_API_KEY = "058fa27b657d44e68ddbb1360ebfb4ec"
+
